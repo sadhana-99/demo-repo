@@ -7,3 +7,7 @@ Changed the description.
 ## Subheader
 
 Added some more text!
+
+## Local development
+
+1. Open index.html in your browser.
